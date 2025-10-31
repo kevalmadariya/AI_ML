@@ -1,0 +1,7 @@
+{
+	"scale": 0,
+	"locale": "en-US",
+	"userThemeMode": "system",
+	"dxt:allowlistEnabled": false,
+	"dxt:allowlistLastUpdated": "2025-10-26T10:44:32.905Z"
+}
